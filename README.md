@@ -1,10 +1,8 @@
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesAlvine)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 # 💫 About Me:
-👯 I’m looking to collaborate on my project repositories <br>🌱 I’m currently learning Software engineering <br>⚡ Fun fact
+Hi, am James,a tech enthusiast guy who is gaining more experice in Cyber Security and Data science. <br>
+👯 My repositores are open for collaboration.  <br>
+🌱 I’m currently learning Software engineering.
 
 
 ## 🌐 Socials:
